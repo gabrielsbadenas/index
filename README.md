@@ -71,4 +71,11 @@ practica de C-lang y C++
 version alfa de gabrielsbadenas/http
 
 
+# EasyOCR Public
+Forked from JaidedAI/EasyOCR
+Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc. 
 
+
+# taller-de-programacion-3
+app hecha con android studio para materia final de ort;
+Kotlin Updated on 1 Dec 2020
