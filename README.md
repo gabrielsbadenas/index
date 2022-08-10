@@ -49,4 +49,9 @@ clon de una bibla.js
 # vitetris-bin
 binarios de 64 bits del vitetris de vicgeralds github.com/vicgeralds/vitetris
 
+# wasm
+api que calcula el salario por hora de un empleado dandole un monto mensual; hecho con ecmascript wasm a modo de prueba; proyecto final en sierra software;
+
+
+
 
