@@ -13,7 +13,13 @@ co-Creado en el primer semestre de 2020;
 otros fundadores: @dbusnelli y @ma-munoz ;
 una api para organizar eventos;
 
-#http
+# http
 para abrir una pagina;
 usa express.js para hacer un servidor http;
 envia una informacion de usuario por JSON;
+
+# highscores-speedruns
+proyecto clon de #http; 
+TODO: react spreadsheet para devil daggers, mario kart, tetris, arcade, etc
+
+
