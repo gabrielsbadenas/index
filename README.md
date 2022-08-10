@@ -37,3 +37,16 @@ Bíblia - version web html5 (javascript)
 todo poner este index en html ahi;
 es una pagina para crear tu reticula de valorant usando vue.js; fue un proyecto de nuevas tecnologias 2 que hice solo; tiene un backend json.
 
+# coso
+coso.py es un juego hecho con python y pygame que corre en linux o windows en 64 bits; corre en cualquier arquitectura soportada por python si se corre desde codigo fuente, ya sea 32 bits o arm, siempre y cuando se tenga acceso al teclado con flechas direccionales;
+
+# py
+copypaste de turing.com
+
+# biblianodejs
+clon de una bibla.js
+
+# vitetris-bin
+binarios de 64 bits del vitetris de vicgeralds github.com/vicgeralds/vitetris
+
+
