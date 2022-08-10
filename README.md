@@ -52,6 +52,23 @@ binarios de 64 bits del vitetris de vicgeralds github.com/vicgeralds/vitetris
 # wasm
 api que calcula el salario por hora de un empleado dandole un monto mensual; hecho con ecmascript wasm a modo de prueba; proyecto final en sierra software;
 
+# calidad-de-software
+apuntes de materia final de la carrera de tecnico superior analista de sistemas;
+
+# coso-web
+port de coso.py a coso.js; usa phaser.js y los mismos sprites, solo que falta un timer que termine la partida; es un modo endless;
+
+# turing-practice
+documentacion para turing.com
+
+# ps5
+listado de juegos que tenia instalados en mi ps5
+
+# c
+practica de C-lang y C++
+
+# febrero-http
+version alfa de gabrielsbadenas/http
 
 
 
