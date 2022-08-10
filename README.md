@@ -1,6 +1,13 @@
 # index;
 indice de que hace cada repo;
 
+# https://github.com/gabrielsbadenas/app-cobertura-internet
+Desarrollar una APP para que los usuarios puedan consultar cobertura del servicio de
+internet en su locación, a través de su geolocalización o ingresando su dirección.
+Si tiene cobertura, que complete un formulario para solicitar el servicio de internet.
+Si no tiene cobertura, que complete un formulario para tenerlo en cuenta en futuras
+ampliaciones del servicio.
+
 # react-app;
 CREADO EL 4/8/22;
 CREACION DEL PRIMER USUARIO.JSON;
