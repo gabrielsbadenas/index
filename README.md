@@ -22,4 +22,18 @@ envia una informacion de usuario por JSON;
 proyecto clon de #http; 
 TODO: react spreadsheet para devil daggers, mario kart, tetris, arcade, etc
 
+# python-wasm-api Public
+un intento de api hecha con python que corre nativamente en el navegador como si fuera javascript; preferente usar algo mas simple como brython o javascript;
+
+# mp3-yt-downloader-with-pyqt5-and-pytube Public
+Forked from github.com/GonziFlowReloaded/mp3-yt-downloader-with-pyqt5-and-pytube 
+
+
+# Biblia-rv2000.es.en.ko Public
+Forked from github.com/HelioGiroto/Biblia-ARC
+Bíblia - version web html5 (javascript) 
+
+# gabrielsbadenas.github.io
+todo poner este index en html ahi;
+es una pagina para crear tu reticula de valorant usando vue.js; fue un proyecto de nuevas tecnologias 2 que hice solo; tiene un backend json.
 
